@@ -1,0 +1,33 @@
+.begin{
+    background-image: url(/home/katerina/Documents/Moringa-School-Projects/projects/photography-website/img/check.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   }
+
+.topnav {
+    background-color: rgb(70, 27, 172);
+    overflow: hidden;
+    float: right;
+
+  }
+  .topnav a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+  }
+  .topnav a:hover {
+    background-color: rgb(39, 151, 39);
+    color: rgb(199, 22, 22);
+    }
+    .topnav a.active {
+        background-color:whitesmoke;
+        color:black;
+       }
+    .pit {
+      font-size: larger;
+      font-style: italic;
+      color: aqua;
+    }

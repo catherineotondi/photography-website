@@ -32,6 +32,13 @@
       color: rgb(247, 244, 232);
     }
     h1{
-      color: aqua;
+      color: rgb(14, 32, 32);
       text-align: center;
+    }
+    .shi{
+      background-color: rgb(202, 202, 226);
+        text-align: left;
+        font-size: xx-large;
+        margin-left: 300px;
+        margin-right: 300px;
     }
